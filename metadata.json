@@ -1,0 +1,6 @@
+{
+  "name": "Bank Statement OCR & CSV Extractor",
+  "description": "Extract structured transaction CSVs from bank statement PDFs and images using Gemini Vision with auto-categorization and Google Sheets export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
